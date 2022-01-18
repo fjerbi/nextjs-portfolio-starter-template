@@ -1,6 +1,7 @@
 # NextJs Portfolio starter Template
 
-Aready to use Portfolio, made with Nextjs and TailwindCss
+A ready to use Light Portfolio, made with Nextjs and TailwindCss
+divided into sections, where you can put whatever you want.
 
 ## Installation
 
@@ -27,6 +28,12 @@ framer-motion
 Tailwind-Css
 react-toggle-dark-mode
 react-scroll
+```
+## Requirements
+```
+Basic knowledge in ReactJs
+Basic knowledge in Nextjs
+Basic Knowledge in Tailwind CSS
 ```
 
 ## Contributing
