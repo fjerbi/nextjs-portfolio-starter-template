@@ -1,0 +1,31 @@
+{
+  "name": "nextjs-portfolio-starter-template",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@tailwindcss/line-clamp": "^0.2.1",
+    "framer-motion": "^4.1.17",
+    "next": "latest",
+    "next-compose-plugins": "^2.2.1",
+    "next-images": "^1.7.0",
+    "next-themes": "^0.0.15",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-icons": "^4.2.0",
+    "react-responsive-modal": "^6.2.0",
+    "react-scroll": "^1.8.2",
+    "react-toggle-dark-mode": "^1.0.4",
+    "react-tooltip": "^4.2.21"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.4",
+    "postcss": "^8.1.10",
+    "tailwindcss": "^2.1.1"
+  }
+}
