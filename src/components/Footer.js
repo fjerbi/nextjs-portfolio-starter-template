@@ -7,7 +7,7 @@ function Footer() {
       className="flex flex-col "
       id="Section5"
     >
-      <div className="flex flex-col items-center rounded-t-xl justify-between w-full  py-8  shadow-lg bg-custom-dark  sm:px-10 sm:py-8  lg:space-y-0">
+      <div className="flex flex-col items-center rounded-t-xl justify-between w-full  py-8  shadow-lg bg-gray-800 sm:px-10 sm:py-8  lg:space-y-0">
         <Link
           to="heroSection"
           smooth={true}
