@@ -4,13 +4,11 @@ import { RiMenuLine } from "react-icons/ri";
 import { motion, AnimatePresence } from "framer-motion";
 import { IoMdClose } from "react-icons/io";
 import { Link } from "react-scroll";
-import useDarkMode from "../utils/useDarkMode";
 import Toggle from "./Toggle";
 
 function Nav() {
   const [sidebar, setSidebar] = useState(false);
   const [navbar, setNavbar] = useState(false);
-  const [colorTheme, setTheme] = useDarkMode();
   const variants = {
     open: { opacity: 1, x: 0 },
     closed: { opacity: 0, x: "-100%" },
@@ -114,7 +112,7 @@ function Nav() {
               Section 5
             </Link>
           </div>
-        <Toggle/>
+          <Toggle />
           <button
             className="lg:hidden dark:bg-gray-900 bg-white border border-transparent hover:shadow-md hover:border-gray-200 focus:outline-none font-medium text-[#5C637C] p-3.5 rounded-lg text-xl"
             onClick={() => setSidebar(true)}
