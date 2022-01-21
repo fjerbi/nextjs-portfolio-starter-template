@@ -35,6 +35,12 @@ Basic knowledge in ReactJs
 Basic knowledge in Nextjs
 Basic Knowledge in Tailwind CSS
 ```
+## Progress
+```
+Section 1 : Navbar and Hero Section ✅ 
+Section2 : Education ✅ 
+```
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
