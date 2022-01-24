@@ -3,7 +3,7 @@ import Image from "next/image";
 function Card({ title, description, photo, link }) {
   return (
     <div
-      className=" hover:shadow-md border border-gray-400 rounded-lg max-w-sm mb-5 backdrop-filter  hover:rotate-0 px-4 my-10 pb-3 md:min-w-[400px] min-w-[300px]  cursor-pointer transition duration-400 transform 
+      className=" hover:shadow-md border border-custom-lightGray rounded-lg max-w-sm mb-5 backdrop-filter  hover:rotate-0 px-4 my-10 pb-3 md:min-w-[400px] min-w-[300px]  cursor-pointer transition duration-400 transform 
     hover:scale-110  "
     >
       <Image layout="responsive" height={1080} width={2000} src={photo} />
