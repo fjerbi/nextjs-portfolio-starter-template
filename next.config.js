@@ -1,5 +1,8 @@
 const withImages = require("next-images");
 
-const composePlugins = require("next-compose-plugins");
-
-module.exports = composePlugins([], withImages());
+module.exports = withImages({
+  images: {
+    disableStaticImages: true,
+    domains: ["firasjerbi.me"],
+  },
+});

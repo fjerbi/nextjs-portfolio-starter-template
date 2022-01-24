@@ -1,25 +1,77 @@
-{
-  "education": [
-    {
-      "id": 1,
-      "university": "University X",
-      "degree": "Computer Engineering",
-      "date": "22-01-2022",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
-    },
-    {
-      "id": 2,
-      "university": "University X",
-      "degree": "Bachelor Degree",
-      "date": "22-01-2018",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
-    },
-    {
-      "id": 3,
-      "university": "University X",
-      "degree": "High School Degree",
-      "date": "22-01-2015",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
-    }
-  ]
-}
+[
+  {
+    "education": [
+      {
+        "id": 1,
+        "university": "University X",
+        "degree": "Computer Engineering",
+        "date": "22-01-2022",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+      },
+      {
+        "id": 2,
+        "university": "University X",
+        "degree": "Bachelor Degree",
+        "date": "22-01-2018",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+      },
+      {
+        "id": 3,
+        "university": "University X",
+        "degree": "High School Degree",
+        "date": "22-01-2015",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+      }
+    ]
+  },
+  {
+    "professionalexp": [
+      {
+        "id": 1,
+        "company": "Company X",
+        "position": "Full stack Js developer",
+        "date": "22-01-2022",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+      },
+      {
+        "id": 2,
+        "company": "Company X",
+        "position": "Web Developer",
+        "date": "22-01-2022",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+      }
+    ]
+  },
+  {
+    "project": [
+      {
+        "id": 1,
+        "title": "Project X",
+        "photo": "https://firasjerbi.me/_next/static/images/airbnb_clone-69559d72c0ee495fd7876479179bcba1.png",
+        "link": "https://airbnb-nextjs-gamma.vercel.app/",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+      },
+      {
+        "id": 2,
+        "title": "Project X",
+        "photo": "https://firasjerbi.me/_next/static/images/airbnb_clone-69559d72c0ee495fd7876479179bcba1.png",
+        "link": "https://airbnb-nextjs-gamma.vercel.app/",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, "
+      },
+      {
+        "id": 3,
+        "title": "Project X",
+        "photo": "https://firasjerbi.me/_next/static/images/airbnb_clone-69559d72c0ee495fd7876479179bcba1.png",
+        "link": "https://airbnb-nextjs-gamma.vercel.app/",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, "
+      },
+      {
+        "id": 4,
+        "title": "Project X",
+        "photo": "https://firasjerbi.me/_next/static/images/airbnb_clone-69559d72c0ee495fd7876479179bcba1.png",
+        "link": "https://airbnb-nextjs-gamma.vercel.app/",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, "
+      }
+    ]
+  }
+]

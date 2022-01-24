@@ -20,7 +20,8 @@
     "react-icons": "^4.2.0",
     "react-responsive-modal": "^6.2.0",
     "react-scroll": "^1.8.2",
-    "react-toggle-dark-mode": "^1.0.4"
+    "react-toggle-dark-mode": "^1.0.4",
+    "tailwind-scrollbar-hide": "^1.1.7"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.4",

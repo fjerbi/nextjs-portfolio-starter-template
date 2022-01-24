@@ -1,6 +1,7 @@
 import TimeLineItem from "./TimeLineItem";
 import data from "../utils/data.json";
 function Section2() {
+
   return (
     <>
       <div className="dark:bg-gray-900 bg-[#F6F8FB] w-full" id="Section2">
@@ -16,7 +17,7 @@ function Section2() {
                   style={{ left: "9px" }}
                 ></div>
                 <ul className="list-none m-0 p-0 border-gray-100">
-                  {data.education.map((edu, i) => (
+                  {data[0].education.map((edu, i) => (
                     <TimeLineItem
                       key={edu.id}
                       university={edu.university}
