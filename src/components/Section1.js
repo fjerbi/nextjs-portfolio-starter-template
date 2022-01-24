@@ -4,7 +4,7 @@ import Title from "./Title";
 
 function Section1() {
   return (
-    <div className="dark:bg-gray-900 bg-[#F6F8FB] w-full" id="Section1">
+    <div className="dark:bg-gray-900 bg-[#ffffff] w-full" id="Section1">
       <Title />
     
     </div>

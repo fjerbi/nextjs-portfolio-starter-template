@@ -1,6 +1,6 @@
 function Section5() {
   return (
-    <div className="dark:bg-gray-900 bg-[#F6F8FB] w-full" id="Section5">
+    <div className="dark:bg-gray-900 bg-[#ffffff] w-full" id="Section5">
     
       <div className="flex flex-col-reverse items-center justify-between px-8 pt-8 pb-16 md:flex-row sm:px-16">
         <div className="flex flex-col space-y-3 sm:space-y-6 items-start text-[#5C637C] xl:border-l-8 xl:pl-8 xl:border-gray-200 py-8">
